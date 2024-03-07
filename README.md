@@ -15,11 +15,8 @@ This is a simple Tic Tac Toe game created using Python. The game is played on th
    ```
    cd Tic_Tac_Toe
    ```
-4. Run the game:
-   ```
-   python Tic_Tac_Toe.py
-   ```
-5. Follow the prompts to play the game. Players take turns to place their symbol ('X' or 'O') on the 3x3 board. The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins the game.
+
+4. Follow the prompts to play the game. Players take turns to place their symbol ('X' or 'O') on the 3x3 board. The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins the game.
 
 ## Features
 
