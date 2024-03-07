@@ -7,8 +7,7 @@ This is a simple Tic Tac Toe game created using Python. The game is played on th
 
 1. Clone this repository to your local machine:
    ```
-   git clone https://github.com/shemayon/Tic_Tac_Toe.git
-
+   git clone https://github.com/shemayon/Tic-Tac-Toe-using-python.git
    ```
    # If you are not able to clone the repository, download the python file and try to run it !!
    
