@@ -7,17 +7,20 @@ This is a simple Tic Tac Toe game created using Python. The game is played on th
 
 1. Clone this repository to your local machine:
    ```
-   git clone https://github.com/shemayon/tic-tac-toe.git
+   git clone https://github.com/shemayon/Tic Tac Toe.git
+
    ```
-2. Navigate to the project directory:
+   # If you are not able to clone the repository, download the python file and try to run it !!
+   
+3. Navigate to the project directory:
    ```
-   cd tic-tac-toe
+   cd Tic Tac Toe
    ```
-3. Run the game:
+4. Run the game:
    ```
-   python tic_tac_toe.py
+   python Tic Tac Toe.py
    ```
-4. Follow the prompts to play the game. Players take turns to place their symbol ('X' or 'O') on the 3x3 board. The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins the game.
+5. Follow the prompts to play the game. Players take turns to place their symbol ('X' or 'O') on the 3x3 board. The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins the game.
 
 ## Features
 
@@ -65,6 +68,3 @@ Congratulations! Player 1 (X) wins!
 If you have ideas for improvements, feel free to open an issue or submit a pull request.
 
 
----
-
-Make sure to replace `your-username` in the clone URL with your actual GitHub username. You can also add more sections or details as needed for your specific project.
